@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "EcoFriendly Water Bottle",
+        "description": "A sustainable, BPA-free water bottle perfect for everyday use.",
+        "price": 15.99,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "name": "Wireless Earbuds",
+        "description": "Bluetooth earbuds with noise-cancellation and long battery life.",
+        "price": 49.99,
+        "stock": 25
+    },
+    {
+        "id": 3,
+        "name": "Yoga Mat",
+        "description": "Non-slip yoga mat with extra thickness for comfort.",
+        "price": 20.50,
+        "stock": 0
+    },
+    {
+        "id": 4,
+        "name": "Smart Watch",
+        "description": "Feature-packed smartwatch with health tracking and notifications.",
+        "price": 199.99,
+        "stock": 5
+    },
+    {
+        "id": 5,
+        "name": "LED Desk Lamp",
+        "description": "Energy-efficient LED desk lamp with adjustable brightness.",
+        "price": 29.99,
+        "stock": 15
+    }
+]
